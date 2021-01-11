@@ -1,0 +1,11 @@
+
+<style>
+body   {
+        background-color: rgb(10,15,15);
+        color: white;
+}
+table   {
+        background-color: white;
+        color: black;
+}
+</style>
